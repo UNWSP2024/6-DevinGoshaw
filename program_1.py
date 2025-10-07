@@ -5,6 +5,9 @@
 #programmer: Devin Goshaw
 #date:10/6/25
 #program: dice average program
+#programmer:Devin Goshaw 
+#date: 10/7/2025
+#program:Random dice program
 import random
 def randDice():
     dice1 = random.randint(1, 6)
